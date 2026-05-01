@@ -125,5 +125,20 @@
   "title.multiplayer.realms": "Motherland (USSR division)",
   "title.singleplayer": "Not a true comrade",
   "tutorial.socialInteractions.title": "Comrade Interactions",
-  "upgradeWorld.joinNow": "Do you want to join the motherland now?"
+  "upgradeWorld.joinNow": "Do you want to join the motherland now?",
+  "key.fullscreen": "Toggle Fullscreen",
+  "options.framerateLimit": "Max Radar Refresh Rate",
+  "options.fullscreen.resolution": "Fullscreen Quality",
+  "options.inactivityFpsLimit": "Reduce RRR when",
+  "options.video": "Radar Settings...",
+  "options.videoTitle": "Radar Settings",
+  "telemetry.property.frame_rate_samples.title": "Radar Refresh Rate Samples (RRR)",
+  "createWorld.customize.buffet.title": "Single Country Customization",
+  "generator.minecraft.large_biomes": "Large Countries",
+  "generator.minecraft.single_biome_surface": "Single Country",
+  "music.game.creative.biome_fest": "C418 - Country Fest",
+  "options.attackIndicator": "Battle Indicator",
+  "options.biomeBlendRadius": "Country Blend",
+  "options.renderDistance": "Scouting Distance",
+  "telemetry.property.render_distance.title": "Scouting Distance"
 }
